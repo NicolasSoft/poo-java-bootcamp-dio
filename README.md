@@ -13,6 +13,7 @@ Aplicar na prática os principais pilares da Programação Orientada a Objetos (
 - 👪 **Herança**: Reaproveitar códigos e comportamentos.
 - 🎭 **Polimorfismo**: Tratar objetos de formas diferentes.
 
+
 Utilizando a linguagem **Java**, o projeto simula o domínio de um **Bootcamp**, com cursos, mentorias e desenvolvedores.
 
 ---
@@ -29,3 +30,38 @@ Utilizando a linguagem **Java**, o projeto simula o domínio de um **Bootcamp**,
 ---
 
 ## 🧱 Estrutura do Projeto
+```
+src/
+├── dominio/
+│ ├── Conteudo.java
+│ ├── Curso.java
+│ ├── Mentoria.java
+│ ├── Bootcamp.java
+│ └── Dev.java
+└── Main.java
+```
+
+---
+
+## ▶️ Execução
+O fluxo principal do sistema está na classe `Main`, onde são criados:
+- Cursos
+- Mentorias
+- Bootcamp
+- Devs
+e simulado o progresso e cálculo de XP.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+- Java 11+
+- IDE IntelliJ IDEA
+- Git e GitHub
+
+---
+
+## 🤝 Contribuição
+Projeto educacional. Sugestões e melhorias são bem-vindas!
+
+⭐ Se este projeto te ajudou, não esqueça de dar uma estrela no repositório!
+
